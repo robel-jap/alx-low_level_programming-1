@@ -5,7 +5,7 @@
 * Return: 0
 */
 
-int main(i)
+int main(void)
 {
 int i;
 i = 98;
