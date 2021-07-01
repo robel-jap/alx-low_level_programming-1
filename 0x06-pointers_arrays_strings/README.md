@@ -1,0 +1,1 @@
+0x06-pointers_arrays_strings11;rgb:0000/0000/0000
